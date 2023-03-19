@@ -183,7 +183,7 @@ font-family: 'Montserrat';
 }
 .content_6{
   background: #363062;
-  height: 140px;
+  height: 120px;
 }
 .footer_icon:hover
 {
@@ -200,13 +200,15 @@ font-family: 'Montserrat';
 }
 .cont_6
 {
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 0;
   font-size: 12px;
   color: white;
   font-family: 'Montserrat';
 }
 .fo {
-  margin: 23px;
+  margin-top: 40px;;
+  margin-left: 23px;
+  margin-right: 23px;
   color: white;
 }
